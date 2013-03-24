@@ -1,0 +1,5 @@
+In Git Bash
+
+git add filename
+git commit -m 'commitcomment'
+git push origin master
